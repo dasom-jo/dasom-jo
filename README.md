@@ -53,7 +53,6 @@
   <!-- 공부하는 기술 섹션 -->
   <h3 align="center" style="color: #333; font-family: Arial, sans-serif;">📚 Studying 📚</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   </div>
 
