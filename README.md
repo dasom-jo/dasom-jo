@@ -5,7 +5,7 @@
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://github.com/user-attachments/assets/e16996b3-8ffb-4f05-9329-e6e97f25bb17" width="400" height="400" style="object-fit: cover; margin: 10px;" />
 <!--     <img src="https://github.com/user-attachments/assets/1f8c3451-50a5-4f65-befd-b1b79417992d" width="400" height="400" style="object-fit: cover; margin: 10px;" /> -->
-     <img src="https://github.com/user-attachments/assets/f76e6740-2d01-4855-947a-7aca0f949a14" width="300" height="300" style="object-fit: cover; margin: 10px;" />
+     <img src="https://github.com/user-attachments/assets/f76e6740-2d01-4855-947a-7aca0f949a14" width="300" height="300" style="object-fit: cover; margin: 10px; justify-content: center; align:center;" />
   </div>
 
 
