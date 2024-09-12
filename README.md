@@ -1,3 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6b30a896-321b-45cf-8ab0-f3c8a980dae0" alt="touch down yesss" width="500" height="400" />
+<div>
+  <img src="https://github.com/user-attachments/assets/66d665f0-3198-47f5-9cee-59d77bba2699" alt="touch down yesss"/>
 </div>
+
